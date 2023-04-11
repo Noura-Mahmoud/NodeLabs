@@ -1,0 +1,41 @@
+html{
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    padding-top: 20px;
+    background: linear-gradient(to bottom right, #ffa07a, #87cefa);
+    /* background: linear-gradient(to bottom , #4397cc, #7fa8c1, #4397cc); */
+  }
+  
+  h2 {
+    font-size: 2em;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px #000000;
+  }
+  
+  h3 {
+    font-size: 1.5em;
+    text-align: center;
+    color: #333;
+    margin-top: 40px;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 0;
+  }
+  
+  li {
+    font-size: 1.2em;
+    margin: 20px 0;
+    text-align: center;
+    color: white;
+    /* text-shadow: 2px 2px #000000; */
+  }
+  
+  
